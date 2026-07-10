@@ -1,0 +1,5 @@
+print("Hello\n")
+print("\"My name is Prince\"\n")
+print("I am learning Python\n")
+print("going to\t Manali\n")
+print("may plan to manali\\Shimla")
