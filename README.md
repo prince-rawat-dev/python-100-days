@@ -15,3 +15,4 @@ This repository contains my daily Python learning journey.
 - ✅ Day 2
 - ✅ Day 3
 - ✅ Day 4
+- ✅ Day 5

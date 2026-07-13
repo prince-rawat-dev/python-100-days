@@ -71,3 +71,56 @@
 - String Indexing
 - String Slicing
 - for Loop on Strings
+
+
+
+
+## Day 04
+
+Topics:
+- String Slicing
+- Positive Indexing
+- Negative Indexing
+- Slice Syntax
+- String Length
+
+Programs:
+- First and Last Character
+- Reverse String
+- Middle Character
+- String Slicing
+- Username Generator(Mini project)
+
+Mini Project:
+- Username Generator
+
+GitHub:
+- Day 04 pushed successfully
+
+Status:
+Completed ✅
+
+
+
+
+
+## Day 05
+
+Topics:
+- String Methods
+
+Programs:
+- Username Formatter
+- Email Checker
+- Word Counter
+- Password Cleaner
+- Find and Replace
+
+Mini Project:
+- Pending (Will complete tomorrow)
+
+GitHub:
+- Day 05 pushed successfully
+
+Status:
+Completed ✅
