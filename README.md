@@ -1,18 +1,43 @@
-# Python 100 Days Challenge
+# 🐍 Python 100 Days Challenge
 
-Hi, I'm Prince.
+Hi, I'm **Prince Rawat**.
 
-This repository contains my daily Python learning journey.
+This repository contains my daily Python learning journey while following the **CodeWithHarry - Python in 100 Days** course.
 
-## Goals
+## 🎯 Goals
 - Learn Python
-- Build Projects
+- Build Real Projects
 - Learn DSA
+- Build a Strong GitHub Profile
 - Become Placement Ready
 
-## Progress
-- ✅ Day 1
-- ✅ Day 2
-- ✅ Day 3
-- ✅ Day 4
-- ✅ Day 5
+## 🛠 Tools
+- Python
+- VS Code
+- Git
+- GitHub
+
+## 📂 Repository Structure
+
+```
+Day_01
+Day_02
+Day_03
+Day_04
+Day_05
+Day_06
+Mini_Projects
+progress.md
+README.md
+```
+
+## 📈 Progress
+
+- ✅ Day 01
+- ✅ Day 02
+- ✅ Day 03
+- ✅ Day 04
+- ✅ Day 05
+- ✅ Day 06
+
+More updates coming soon... 🚀

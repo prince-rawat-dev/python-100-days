@@ -102,8 +102,6 @@ Completed ✅
 
 
 
-
-
 ## Day 05
 
 Topics:
@@ -121,6 +119,34 @@ Mini Project:
 
 GitHub:
 - Day 05 pushed successfully
+
+Status:
+Completed ✅
+
+
+
+## Day 06
+
+Topics:
+- if
+- else
+- elif
+- Nested if
+- Logical Operators
+
+Programs:
+- Age Checker
+- Even or Odd Checker
+- Largest of Three Numbers
+- Marks Grade System
+- Login System
+- Number Type Checker (Bonus)
+
+Mini Project:
+- Pending
+
+GitHub:
+- Day 06 pushed successfully
 
 Status:
 Completed ✅
