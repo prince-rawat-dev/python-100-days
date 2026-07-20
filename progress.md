@@ -150,3 +150,25 @@ GitHub:
 
 Status:
 Completed ✅
+
+
+
+
+## Day 07
+
+Topics:
+- Time Module
+- time.strftime()
+- if-else Revision
+
+Programs:
+- Greeting Program
+
+Mini Project:
+- Pending
+
+GitHub:
+- Day 07 pushed successfully
+
+Status:
+Completed ✅
