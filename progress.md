@@ -172,3 +172,30 @@ GitHub:
 
 Status:
 Completed ✅
+
+
+
+
+## Day 08
+
+Topics:
+- match-case Statement
+- Pattern Matching
+- Default Case (case _)
+
+Programs:
+- Day of Week
+- Simple Calculator
+- Month Name
+- Fruit Price
+- Traffic Signal
+- Grade Message (Bonus)
+
+Mini Project:
+- Pending
+
+GitHub:
+- Day 08 pushed successfully
+
+Status:
+Completed ✅
