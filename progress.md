@@ -199,3 +199,30 @@ GitHub:
 
 Status:
 Completed ✅
+
+
+
+
+## Day 09
+
+Topics:
+- for Loop
+- range()
+- String Traversal
+
+Programs:
+- Print Numbers
+- Sum of N Numbers
+- Multiplication Table
+- Count Vowels
+- Factorial
+- Star Pattern (Bonus)
+
+Mini Project:
+- Pending
+
+GitHub:
+- Day 09 pushed successfully
+
+Status:
+Completed ✅

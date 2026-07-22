@@ -28,6 +28,7 @@ Day_05
 Day_06
 Day_07
 Day_08
+Day_09
 Mini_Projects
 progress.md
 README.md
@@ -43,5 +44,6 @@ README.md
 - ✅ Day 06
 - ✅ Day 07
 - ✅ Day 08
+- ✅ Day 09
 
 More updates coming soon... 🚀
