@@ -226,3 +226,32 @@ GitHub:
 
 Status:
 Completed ✅
+
+
+
+
+## Day 10
+
+Topics:
+- while Loop
+- while-else
+- do-while Emulation
+
+Programs:
+- Print 1 to N
+- Sum of N Numbers
+- Reverse Counting
+- While-Else Demo
+- Do-While Demo
+- Even Numbers (Bonus)
+- Password Attempt (Bonus)
+- Guess Number (Bonus)
+
+Mini Project:
+- Pending
+
+GitHub:
+- Day 10 pushed successfully
+
+Status:
+Completed ✅
