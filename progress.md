@@ -255,3 +255,31 @@ GitHub:
 
 Status:
 Completed ✅
+
+
+
+
+## Day 11
+
+Topics:
+- break
+- continue
+- Loop Control
+- do-while using break
+
+Programs:
+- Skip Multiples of 3
+- Stop at Number
+- Skip Vowels
+- Password Validation
+- Do-While using break
+- Prime Number Checker (Bonus)
+
+Mini Project:
+- Pending
+
+GitHub:
+- Day 11 pushed successfully
+
+Status:
+Completed ✅
