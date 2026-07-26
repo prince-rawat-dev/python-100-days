@@ -283,3 +283,30 @@ GitHub:
 
 Status:
 Completed ✅
+
+
+
+## Day 12
+
+Topics:
+- Built-in Functions
+- User-defined Functions
+- Function Parameters
+- Function Calling
+
+Programs:
+- Greet User
+- Add Two Numbers
+- Even/Odd Function
+- Factorial Function
+- Multiplication Table
+- Calculator using Functions (Bonus)
+
+Mini Project:
+- Pending
+
+GitHub:
+- Day 12 pushed successfully
+
+Status:
+Completed ✅
