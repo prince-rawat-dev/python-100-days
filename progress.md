@@ -310,3 +310,32 @@ GitHub:
 
 Status:
 Completed ✅
+
+
+
+## Day 13
+
+Topics:
+- Function Arguments
+- Keyword Arguments
+- Default Arguments
+- Variable Length Arguments
+- Return Statement
+
+Programs:
+- Greet User
+- Student Details
+- Calculator using Functions
+- Sum using *args
+- Maximum Number
+- Even/Odd Counter
+- Revision Programs
+
+Mini Project:
+- Pending
+
+GitHub:
+- Day 13 pushed successfully
+
+Status:
+Completed ✅
