@@ -339,3 +339,31 @@ GitHub:
 
 Status:
 Completed ✅
+
+
+
+## Day 14
+
+Topics:
+- Lists
+- Indexing
+- Slicing
+- Membership Operator
+- List Comprehension
+
+Programs:
+- Student Marks Analysis
+- Even/Odd List
+- Search Student
+- Reverse List
+- Square List
+- Vowel Words
+
+Mini Project:
+- Pending
+
+GitHub:
+- Day 14 pushed successfully
+
+Status:
+Completed ✅
