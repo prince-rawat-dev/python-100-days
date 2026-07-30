@@ -396,3 +396,31 @@ GitHub:
 
 Status:
 Completed ✅
+
+
+
+## Day 16
+
+Topics:
+- Tuple
+- Indexing
+- Membership Operator
+- Tuple Slicing
+
+Programs:
+- Student Information
+- Favorite Fruits
+- Search City
+- Tuple Slicing
+- Even Numbers from Tuple
+- Tuple to List
+- Revision (Student Manager, Unique Numbers, Tuple Slicing)
+
+Mini Project:
+- Pending
+
+GitHub:
+- Day 16 pushed successfully
+
+Status:
+Completed ✅
