@@ -367,3 +367,32 @@ GitHub:
 
 Status:
 Completed ✅
+
+
+
+## Day 15
+
+Topics:
+- List Methods
+- Searching
+- Sorting
+- Copying
+- Removing Elements
+
+Programs:
+- Student Manager
+- Number Analyzer
+- Shopping Cart
+- Copy vs Original
+- Merge Lists
+- Unique Numbers
+- Revision (Reverse List, Search Student, Square List)
+
+Mini Project:
+- Pending
+
+GitHub:
+- Day 15 pushed successfully
+
+Status:
+Completed ✅
