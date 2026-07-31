@@ -456,3 +456,34 @@ GitHub:
 
 Status:
 Completed ✅
+
+
+
+## Day 18
+
+Topics:
+- Logic Revision
+- Conditions
+- Loops
+- Functions
+- Lists
+- Tuples
+- Match-case
+
+Programs:
+- Smart Greeting
+- Student Report Card
+- Multiplication Tables
+- Number Analyzer
+- Student Search
+- Mini ATM
+- Revision (Overall Concepts)
+
+Mini Project:
+- Pending
+
+GitHub:
+- Day 18 pushed successfully
+
+Status:
+Completed ✅
