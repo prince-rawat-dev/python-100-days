@@ -424,3 +424,35 @@ GitHub:
 
 Status:
 Completed ✅
+
+
+
+
+## Day 17
+
+Topics:
+- Tuple Operations
+- count()
+- index()
+- Concatenation
+- Repetition
+- Built-in Functions
+- Packing & Unpacking
+
+Programs:
+- Count Number
+- Find Index
+- Merge Tuples
+- Tuple Repetition
+- Tuple Statistics
+- Packing & Unpacking
+- Revision (Tuple Slicing, Search City, Tuple to List)
+
+Mini Project:
+- Pending
+
+GitHub:
+- Day 17 pushed successfully
+
+Status:
+Completed ✅
