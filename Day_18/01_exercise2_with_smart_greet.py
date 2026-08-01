@@ -1,3 +1,8 @@
+# Updated version of Exercise 2(Greet Good Morning/Afternoon/Evening/Night according to current time)
+
+
+
+
 name = input("Enter your name: ")
 
 import time
