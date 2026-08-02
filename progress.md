@@ -508,3 +508,30 @@ GitHub:
 
 Status:
 Completed ✅
+
+
+
+
+## Day 20
+
+Topics:
+- f-Strings
+- String Formatting
+
+Programs:
+- Student Introduction
+- Calculator Result
+- Multiplication Table
+- Employee Salary Slip
+- Shopping Bill
+- Student Report
+- Challenge - Student Report Format
+
+Mini Project:
+- Pending
+
+GitHub:
+- Day 20 pushed successfully
+
+Status:
+Completed ✅
