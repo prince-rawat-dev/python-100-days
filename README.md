@@ -41,6 +41,7 @@ Day_18
 Day_19
 Day_20
 Day_21
+Day_22
 Mini_Projects
 progress.md
 README.md
@@ -69,5 +70,6 @@ README.md
 - ✅ Day 19
 - ✅ Day 20
 - ✅ Day 21
+- ✅ Day 22
 
 More updates coming soon... 🚀
