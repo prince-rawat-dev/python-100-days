@@ -588,3 +588,25 @@ Git Concept:
 
 Status:
 Completed ✅
+
+
+
+## Day 23
+
+Topics:
+- Sets (Basics)
+
+Programs:
+- Student Set
+- Duplicate Remover
+- Student Search
+- Print Set
+- Mixed Set
+- Remove Duplicates
+- Class Attendance
+
+Git Concept:
+- git clean -n
+
+Status:
+Completed ✅
