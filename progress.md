@@ -610,3 +610,29 @@ Git Concept:
 
 Status:
 Completed ✅
+
+
+
+## Day 23
+
+Topics:
+- Set Methods
+
+Programs:
+- Student Registration
+- Merge Classes
+- Common Students
+- Class Difference
+- Unique Students
+- Sports Eligibility
+- Department Verification
+- No Common Subjects
+- Library Management
+- Skill Management
+
+Git:
+- git clean -f
+- git rm
+
+Status:
+Completed ✅

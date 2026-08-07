@@ -6,7 +6,7 @@ def fibonacci(n):
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
-n = int(input("Enter a number for its fibonacci sequence: "))
+n = int(input("Up to how many index numbers do you want the sequence: "))
 
 for i in range(n):
     print(fibonacci(i))
