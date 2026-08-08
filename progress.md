@@ -636,3 +636,24 @@ Git:
 
 Status:
 Completed ✅
+
+
+
+## Day 25
+
+Lecture: 33 - Dictionaries Basics
+
+Programs:
+- Student Information
+- Employee Details
+- Add Dictionary Data
+- Update Student
+- Delete Dictionary Data
+- Check Student
+- Subject Marks
+- Mixed Dictionary
+- Nested Dictionary
+- Student Database
+- Agniveer Question Dictionary
+
+Status: Completed ✅
