@@ -657,3 +657,54 @@ Programs:
 - Agniveer Question Dictionary
 
 Status: Completed ✅
+
+
+
+## Day 26
+- Lecture 34
+- Topic: Dictionary Methods
+
+### Methods Covered
+- keys()
+- values()
+- items()
+- get()
+- update()
+- pop()
+- popitem()
+- clear()
+- setdefault()
+- copy()
+- fromkeys()
+
+### Concepts Practiced
+- Accessing dictionary keys
+- Accessing dictionary values
+- Accessing key-value pairs
+- Safe dictionary searching
+- Updating dictionary data
+- Removing specific data
+- Removing the last key-value pair
+- Clearing a dictionary
+- Adding default values
+- Copying dictionaries
+- Creating dictionaries using fromkeys()
+- Menu-driven dictionary program
+
+### Programs Completed
+1. Dictionary Keys
+2. Dictionary Values
+3. Student Report
+4. Safe Dictionary Search
+5. Update Student
+6. Employee Data Removal
+7. popitem() Practice
+8. Dictionary Toolkit
+9. Remaining Dictionary Methods
+
+### Git
+- Learned: `git log --oneline --all --graph`
+- Git push: ✅
+
+### Status
+Completed ✅
