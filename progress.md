@@ -708,3 +708,35 @@ Status: Completed ✅
 
 ### Status
 Completed ✅
+
+
+
+## Day 27
+- Lecture 35
+- Topic: For/While Loop with Else
+
+### Topics Covered
+- for loop with else
+- while loop with else
+- Normal completion of loops
+- break with loop else
+- continue with loop else
+- Difference between normal if-else and loop else
+- Searching using loop + break
+- Prime-number logic using loop else
+- Password attempt logic
+- Dictionary searching using for-else
+
+### Programs Completed
+1. For-Else Basic
+2. For-Else with Break
+3. Prime Number Checker
+4. While-Else Countdown
+5. Password Attempts
+6. Student Search using For-Else
+
+### Git
+- Git push: ✅
+
+### Status
+Completed ✅
