@@ -1,4 +1,4 @@
-# Day 23 - Sets
+# Day 24 - Sets
 
 ## Topics Learned
 - Set Basics

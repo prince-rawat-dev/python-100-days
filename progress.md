@@ -613,7 +613,7 @@ Completed ✅
 
 
 
-## Day 23
+## Day 24
 
 Topics:
 - Set Methods
@@ -734,6 +734,44 @@ Completed ✅
 4. While-Else Countdown
 5. Password Attempts
 6. Student Search using For-Else
+
+### Git
+- Git push: ✅
+
+### Status
+Completed ✅
+
+
+
+
+## Day 28
+- Lecture 36
+- Topic: Exception Handling in Python
+
+### Topics Covered
+- What is an exception
+- try block
+- except block
+- else block
+- finally block
+- raise statement
+- Specific exception handling
+- Multiple exceptions
+- Exception as e
+- ValueError
+- TypeError
+- ZeroDivisionError
+- Input validation
+- Exception handling with previous dictionary concepts
+- Combining exception handling with functions and loops
+
+### Programs Completed
+1. Basic Exception Handling
+2. Multiple Exceptions
+3. Exception as e
+4. try-except-else-finally
+5. Age Validation
+6. Student Marks Exception System
 
 ### Git
 - Git push: ✅
