@@ -778,3 +778,31 @@ Completed ✅
 
 ### Status
 Completed ✅
+
+
+
+
+## Day 29
+- Lecture 37
+- Topic: Finally Keyword in Python
+
+### Topics Covered
+- finally keyword
+- finally with exception
+- finally without exception
+- try-except-else-finally flow
+- finally with return
+- Resource cleanup
+- File cleanup
+- File closing using finally
+
+### Programs Completed
+1. Basic Finally
+2. Try Except Else Finally
+3. Finally with Return
+
+### Git
+- Git push: ✅
+
+### Status
+Completed ✅
