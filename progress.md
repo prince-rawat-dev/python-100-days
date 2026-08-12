@@ -806,3 +806,35 @@ Completed ✅
 
 ### Status
 Completed ✅
+
+
+
+
+## Day 30
+- Lecture 38
+- Topic: Raising Custom Errors in Python
+
+### Topics Covered
+- raise keyword
+- Built-in exception raising
+- Custom error messages
+- Conditional raising
+- raise inside functions
+- raise with try-except
+- User-input validation
+- Age validation
+- Marks validation
+- Username validation
+- Combining raise with finally
+
+### Programs Completed
+1. Custom Age Error
+2. Marks Validation
+3. Username Validation Function
+4. Student Registration Validation System
+
+### Git
+- Git push: ✅
+
+### Status
+Completed ✅
