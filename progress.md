@@ -838,3 +838,56 @@ Completed ✅
 
 ### Status
 Completed ✅
+
+
+
+
+## Day 31
+- Lecture 39
+- Topic: Exercise 3 - KBC Review
+
+### Lecture Type
+Solution review / reinforcement lecture
+
+### Lecture Coverage
+- Reviewed KBC exercise and solution
+- Reinforced lists and nested lists
+- User input and output
+- `for` loop
+- `range()` and `len()`
+- Indexing
+- `if-elif-else`
+- `break`
+- String methods
+- `upper()`
+- f-strings
+- Conditional logic
+- Prize money logic
+
+### Programs Completed
+1. KBC Revision
+2. KBC Final Version
+
+### Project Completed
+**KBC Game — Agniveer Vayu Edition**
+
+Location:
+`Mini_Projects/02_KBC_Game.py`
+
+### Project Features
+- 15 Agniveer Vayu-style MCQs
+- 4 options per question
+- Progressive prize money
+- 3 major milestones
+- Case-insensitive answers
+- Quit option
+- Correct-answer explanations
+- Wrong-answer handling
+- Final take-home winnings
+
+### Git
+- Changes committed ✅
+- Changes pushed to GitHub ✅
+
+### Status
+**Day 31 Completed ✅**

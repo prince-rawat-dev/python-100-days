@@ -1,5 +1,4 @@
-# Mini Project 02
-# KBC Game (Agniveer Vayu Edition)
+# KBC Game (Agniveer Vayu Edition)(THE FINAL VERSION)
 
 # ABOUT GAME :-
 # ============================================================
@@ -19,7 +18,6 @@
 # Purpose: Combines Python programming practice with
 # Agniveer Vayu exam preparation.
 # ============================================================
-
 
 
 
@@ -170,4 +168,5 @@ for i in range(len(questions)):
         break
 
 print(f"\n\nCongratulations!!\nYour take home money is ₹ {winning}🥳\n\n")
+
 
