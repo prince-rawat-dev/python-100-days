@@ -51,6 +51,7 @@ Day_28
 Day_29
 Day_30
 Day_31
+Day_32
 Mini_Projects
 progress.md
 README.md
@@ -89,5 +90,6 @@ README.md
 - ✅ Day 29
 - ✅ Day 30
 - ✅ Day 31
+- ✅ Day 32
 
 More updates coming soon... 🚀

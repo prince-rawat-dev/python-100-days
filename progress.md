@@ -891,3 +891,47 @@ Location:
 
 ### Status
 **Day 31 Completed ✅**
+
+
+
+## Day 32
+- Lecture 40
+
+### Topic
+Exercise 4 — Secret Code Language
+
+### Concepts Covered
+- Secret-code encoding rules
+- Secret-code decoding rules
+- Word length checking
+- String slicing
+- `split()`
+- `join()`
+- Lists
+- `for` loop
+- `while` loop
+- `match-case`
+- `break`
+- `continue`
+- Functions
+- User input
+- Random character generation
+- Concept of "key" (for add/remove padding)
+- Exception handling
+- Message reconstruction
+
+### Programs Completed
+1. Basic Secret Code
+2. Secret Code Using Functions
+3. Secret Code Menu
+4. Final Secret Code Project
+
+### Mini Project Added
+`Mini_Projects/03_Secret_Code_Language.py`
+
+### Git
+- Changes committed ✅
+- Changes pushed to GitHub ✅
+
+### Status
+**Day 32 Completed ✅**
