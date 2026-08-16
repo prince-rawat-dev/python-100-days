@@ -935,3 +935,26 @@ Exercise 4 — Secret Code Language
 
 ### Status
 **Day 32 Completed ✅**
+
+
+
+
+## Day 33
+
+### Lecture
+Lecture 41
+
+### Topic
+Short-hand if-else / Ternary Operator
+
+### Practice
+- 4 programs completed
+- Ternary operator practiced
+- Short-hand conditions practiced
+- Nested/combined short-hand expressions practiced
+
+### Status
+Completed ✅
+
+### GitHub
+Day 33 pushed successfully ✅
