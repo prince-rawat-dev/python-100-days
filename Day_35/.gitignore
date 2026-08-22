@@ -1,0 +1,12 @@
+venv1/
+__pycache__/
+*.pyc
+.env
+
+
+# Work of this .gitignore file: -
+
+# venv1/ -> virtual env. will not go in Github
+# __pycache__/ -> Python cache will also not go
+# *.pyc -> compiled python will also not go
+# .env -> passwords/API keys like sensitive things will not upload accidently
