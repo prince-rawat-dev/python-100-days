@@ -983,3 +983,75 @@ enumerate() Function
 
 ### Status
 Completed ✅
+
+
+
+
+## Day 35
+
+* Lecture 43
+
+### Topic
+
+Virtual Environment in Python
+
+### Concepts Covered
+
+* Virtual Environment
+* Purpose of Virtual Environment
+* Creating a Virtual Environment
+* `python -m venv`
+* Creating `venv1`
+* Activating Virtual Environment
+* PowerShell activation
+* `.\venv1\Scripts\Activate.ps1`
+* Installing packages inside Virtual Environment
+* `pip`
+* `python -m pip install requests`
+* Installing the `requests` package
+* Testing an installed package
+* `requests.get()`
+* HTTP Status Code
+* Successful `Status Code: 200`
+* `pip freeze`
+* Creating `requirements.txt`
+* `python -m pip freeze > requirements.txt`
+* Purpose of `requirements.txt`
+* `.gitignore`
+* Ignoring `venv1/`
+* Ignoring `__pycache__/`
+* Ignoring `*.pyc`
+* Ignoring `.env`
+* Difference between project files and Virtual Environment files
+* Keeping Python programs outside `venv1`
+* `.vscode` project configuration
+* Package and dependency management
+* Isolated Python environments
+
+### Programs Completed
+
+1. Virtual Environment Creation and Activation
+2. Requests Package Installation and Testing
+3. Requirements.txt Generation
+4. Virtual Environment Git Configuration
+
+### Practical Work Completed
+
+* Created `venv1` inside the Day 35 folder
+* Activated the Virtual Environment successfully
+* Installed `requests`
+* Tested `requests` with `https://example.com`
+* Successfully received `Status Code: 200`
+* Generated `requirements.txt`
+* Created `.gitignore`
+* Configured files/folders that should not be pushed to GitHub
+* Understood the role of `.vscode`
+
+### Git
+
+* Changes committed ✅
+* Changes pushed to GitHub ✅
+
+### Status
+
+**Day 35 Completed ✅**
