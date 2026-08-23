@@ -55,6 +55,7 @@ Day_32
 Day_33
 Day_34
 Day_35
+Day_36
 Mini_Projects
 progress.md
 README.md
@@ -97,5 +98,6 @@ README.md
 - ✅ Day 33
 - ✅ Day 34
 - ✅ Day 35
+- ✅ Day 36
 
 More updates coming soon... 🚀

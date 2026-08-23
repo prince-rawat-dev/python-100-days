@@ -1055,3 +1055,64 @@ Virtual Environment in Python
 ### Status
 
 **Day 35 Completed ✅**
+
+
+
+
+## Day 36
+
+* Lecture 44
+
+### Topic
+
+How Importing Works in Python
+
+### Concepts Covered
+
+* What is a module
+* Creating a custom Python module
+* `import`
+* `from ... import ...`
+* Importing specific functions and variables
+* Importing multiple items
+* `from module import *`
+* Module aliases using `as`
+* Function aliases using `as`
+* Built-in modules
+* Custom modules
+* Module-level code execution during import
+* Multi-file Python programs
+* Using imported functions
+* Returning values from imported functions
+* Calculator module
+* Combining modules with exception handling
+* Practical module structure
+
+### Programs Completed
+
+1. Create and Import Your Own Module
+2. Using `from module import`
+3. Importing Multiple Items
+4. Module and Function Aliases
+5. Built-in and Custom Modules
+6. Multi-file Calculator Project
+
+### Practical Work Completed
+
+* Created and imported a custom module
+* Used `import module`
+* Used `from module import`
+* Used aliases with `as`
+* Practiced built-in and custom modules
+* Created a multi-file calculator project
+* Tested module-level execution during import
+* Successfully ran all Lecture 44 programs
+
+### Git
+
+* Changes committed ✅
+* Changes pushed to GitHub ⏳
+
+### Status
+
+**Day 36 Completed ✅**
