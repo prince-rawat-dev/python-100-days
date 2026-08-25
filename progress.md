@@ -1116,3 +1116,60 @@ How Importing Works in Python
 ### Status
 
 **Day 36 Completed ✅**
+
+
+
+
+## Day 37
+
+- Lecture 45
+
+### Topic
+
+if __name__ == "__main__" in Python
+
+### Concepts Covered
+
+- Understanding __name__
+- Understanding __main__
+- __name__ when a file is executed directly
+- __name__ when a file is imported
+- Difference between direct execution and importing
+- if __name__ == "__main__"
+- Preventing automatic execution during import
+- Reusable modules
+- Testing code inside modules
+- Custom modules
+- Multi-file Python programs
+- Reusable functions
+- Utility modules
+- Combining modules with exception handling
+
+### Programs Completed
+
+1. Understanding __name__
+2. __name__ When a Module is Imported
+3. Why if __name__ == "__main__" is Used
+4. Reusable Module with Direct Testing
+5. Final Utility Module
+
+### Practical Work Completed
+
+- Tested __name__ during direct execution
+- Tested __name__ during module import
+- Used if __name__ == "__main__"
+- Created reusable custom modules
+- Created separate Main files
+- Tested module execution behavior
+- Practiced multi-file Python programs
+- Created reusable utility functions
+- Successfully completed all Lecture 45 programs
+
+### Git
+
+- Changes committed ⏳
+- Changes pushed to GitHub ⏳
+
+### Status
+
+**Day 37 Completed ✅**
