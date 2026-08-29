@@ -1173,3 +1173,71 @@ if __name__ == "__main__" in Python
 ### Status
 
 **Day 37 Completed ✅**
+
+
+
+
+
+## Day 38
+
+- Lecture 46
+
+### Topic
+
+os Module in Python
+
+### Concepts Covered
+
+- import os
+- os.getcwd()
+- os.chdir()
+- os.listdir()
+- os.mkdir()
+- os.makedirs()
+- os.path.exists()
+- os.path.isfile()
+- os.path.isdir()
+- os.path.join()
+- os.path.splitext()
+- os.path.abspath()
+- os.path.dirname()
+- os.path.basename()
+- os.rename()
+- os.remove()
+- os.rmdir()
+- os.environ
+- os.environ.get()
+- Safe path handling
+- File path vs directory path
+- File creation and writing
+- with open()
+- Read, Write and Append modes
+
+### Programs Completed
+
+1. Current Working Directory
+2. List Files and Folders
+3. Create and Check Directories
+4. File and Path Operations
+5. Rename and Remove
+6. Environment Variables
+
+### Practical Work Completed
+
+- Practiced working with directories
+- Created and inspected folders
+- Practiced file and directory path handling
+- Practiced file creation and writing
+- Practiced rename and remove operations
+- Practiced environment variables
+- Practiced safe path construction
+- Completed all Lecture 46 programs
+
+### Git
+
+- Changes committed ⏳
+- Changes pushed to GitHub ⏳
+
+### Status
+
+**Day 38 Completed ✅**

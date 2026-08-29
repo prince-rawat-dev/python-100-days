@@ -1,4 +1,6 @@
-# now we import (my_module) module here and use it
+# Starting (Day 36)Lecture - 44(How Importing Works in Python)
+ 
+#  now we import (my_module) module here and use it
 
 import my_module
 
