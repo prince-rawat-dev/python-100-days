@@ -1288,3 +1288,48 @@ Exercise 4 — Solutions and Shoutouts
 ### Status
 
 **Day 39 Completed ✅**
+
+
+
+
+## Day 40
+
+- Lecture 48
+
+### Topic
+
+Local vs Global Variables in Python
+
+### Concepts Covered
+
+- Local variables
+- Global variables
+- Variable scope
+- Local variable accessibility
+- Global variable accessibility
+- Reading global variables inside functions
+- Modifying global variables inside functions
+- `global` keyword
+- Local and global variables with the same name
+- Variable lifetime
+- Function scope
+- Difference between local and global variables
+- Using `return` to get a local value outside a function
+- Global variable modification using `global`
+
+### Programs Completed
+
+1. Local Variable
+2. Global Variable
+3. Local vs Global Variable
+4. Using `global` Keyword
+5. Global Counter
+
+### Git
+
+- Changes committed ⏳
+- Changes pushed to GitHub ⏳
+
+### Status
+
+**Day 40 Completed ✅**
