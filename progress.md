@@ -1333,3 +1333,67 @@ Local vs Global Variables in Python
 ### Status
 
 **Day 40 Completed ✅**
+
+
+
+
+## Day 41
+
+- Lecture 49
+
+### Topic
+
+File I/O / File Handling in Python
+
+### Concepts Covered
+
+- File handling
+- `open()`
+- Read mode (`r`)
+- Write mode (`w`)
+- Append mode (`a`)
+- Create mode (`x`)
+- Binary modes (`rb`, `wb`)
+- Text files
+- Binary files
+- `read()`
+- `readline()`
+- `readlines()`
+- `write()`
+- `writelines()`
+- `with` statement
+- Automatic file closing
+- File pointer / reading position
+- `strip()`
+- UTF-8 encoding
+- Relative and absolute paths
+- File overwrite
+- File append
+- File creation
+- `FileExistsError`
+- Reading files using `for` loop
+
+### Programs Completed
+
+1. Write Data to a File
+2. Read Complete File
+3. Append Data to a File
+4. Read File Line by Line
+5. Use `readline()` and `readlines()`
+6. Create a New File Using `x` Mode
+7. Read and Write Binary Data
+8. Student Record File Handling
+
+### Additional Practice
+
+- Tested `writelines()` with multiple lines
+- Practiced text and binary file handling
+
+### Git
+
+- Changes committed ⏳
+- Changes pushed to GitHub ⏳
+
+### Status
+
+**Day 41 Completed ✅**
