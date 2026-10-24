@@ -1397,3 +1397,47 @@ File I/O / File Handling in Python
 ### Status
 
 **Day 41 Completed ✅**
+
+
+
+
+## Day 42
+- **Lecture:** 50 — File Reading Methods and Practice
+- **Topic:** File Handling — Reading, Extracting, Searching and Filtering Data
+
+### Concepts Covered
+- `readline()` — read one line at a time
+- `readlines()` — read all lines into a list
+- Reading files using a `for` loop
+- Extracting content using `strip()` and `split()`
+- Searching for specific student records
+- Writing multiple lines using `writelines()`
+- Converting marks to integers using `int()`
+- Filtering students based on marks
+- Handling invalid records using `try` and `except`
+- Using `with open()` and UTF-8 encoding
+
+### Programs Completed
+1. `01_Readline_Multiple.py`
+2. `02_Readlines_Loop.py`
+3. `03_Extract_Content.py`
+4. `04_Search_File_Content.py`
+5. `05_Write_Read_Lines.py`
+6. `Student_Marks_Extractor.py` — Mini Challenge
+
+
+### Git
+- Updated Day 42 documentation.
+- Updated root `progress.md`.
+- Updated root `README.md`.
+- GitHub push: complete after running the commands below.
+
+### Status
+- Lecture 50 practice programs prepared
+- Mini challenge prepared
+- Day README prepared
+- Root progress tracking prepared
+- Tested all programs
+- Changes committed and pushed to GitHub
+
+
